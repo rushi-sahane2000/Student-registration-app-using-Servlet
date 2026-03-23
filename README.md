@@ -75,7 +75,7 @@ Student-Registration-app/
 
 > Register a student by filling in their full name, roll number, course, and total marks.
 
-![Student Registration Form](screenshot_registration.png)
+![Student Registration Form](Screenshot%202026-03-23%20103546.png)
 
 ---
 
@@ -83,7 +83,7 @@ Student-Registration-app/
 
 > View all registered students with their details in a clean table layout.
 
-![Registered Students List](screenshot_students.png)
+![Registered Students List](Screenshot%202026-03-23%20103600.png)
 
 ---
 
